@@ -33,6 +33,11 @@ const nextConfig: NextConfig = {
         hostname: "ticketr.vercel.app",
         pathname: "/**",
       },
+		{
+			protocol: "https",
+			hostname: "res.cloudinary.com",
+			pathname: "/**",
+		},
     ],
   },
 };

@@ -14,7 +14,7 @@ function Header() {
         <div className="flex items-center justify-between w-full lg:w-auto">
           <Link href="/" className="font-bold shrink-0">
             <Image
-              src="/logo.png"
+              src="https://res.cloudinary.com/dths6fn80/image/upload/v1757783574/logo_xbkhuu.png"
               alt="logo"
               width={100}
               height={100}
