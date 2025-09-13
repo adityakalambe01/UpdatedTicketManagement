@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab45791-14bc-49f6-b2de-facf6a27e0f0" name="Changes" comment="Deleted" />
+    <list default="true" id="0ab45791-14bc-49f6-b2de-facf6a27e0f0" name="Changes" comment="Updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +68,11 @@
       </map>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kalam\Downloads\anirudhsonawane-TICKETr-eba9319\anirudhsonawane-TICKETr-eba9319\public" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -99,7 +108,7 @@
       <workItem from="1757758164461" duration="1296000" />
       <workItem from="1757759537768" duration="4105000" />
       <workItem from="1757763886915" duration="2209000" />
-      <workItem from="1757778826270" duration="1785000" />
+      <workItem from="1757778826270" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="Final Commit">
       <option name="closed" value="true" />
@@ -125,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757780254808</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1757780730060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757780730060</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit" />
     <MESSAGE value="Deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>

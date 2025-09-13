@@ -6,7 +6,7 @@ import { ClerkProvider, ClerkLoaded, ClerkLoading } from "@clerk/nextjs";
 import { Toaster } from "@/components/ui/sonner";
 import Header from "../components/Header";
 import SyncUserWithConvex from "../components/SyncUserWithConvex";
-import Footer from "../components/Footer";
+import Footer from "@/components/Footer";
 
 const geistSans = GeistSans;
 
