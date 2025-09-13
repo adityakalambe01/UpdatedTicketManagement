@@ -4,7 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import { Facebook, Twitter, Instagram } from "lucide-react";
-import logo from "@/app/logo.png"; // Import logo like in Header
+import logo from "../../public/logo.png"; // Import logo like in Header
 import Link from "next/link"; // Added Link import
 
 export default function Footer() {

@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link  from "next/link";
-import logo from "@/app/logo.png";
+import logo from "../../public/logo.png";
 import { SignedIn, SignedOut, SignInButton, UserButton, useUser } from "@clerk/nextjs";
 import SearchBar from "./SearchBar";
 

@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab45791-14bc-49f6-b2de-facf6a27e0f0" name="Changes" comment="Final Commit">
-      <change beforePath="$PROJECT_DIR$/SRS DOC/.env for dev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/COMPLETE PURCHASE (SELECT QTY FOR EACH PASS).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/HOME PAGE (ADMIN ACC LOGIN).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/MY TICKETS PAGE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/PASSES SELECTION PAGE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/PAYMENT SUCESSFULL PAGE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/Print _ Udyam Registration Certificate.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/RAZORPAY PAYMENT INTERFACE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/TICKETS PAGE .jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRS DOC/VIEW TICKET .jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="0ab45791-14bc-49f6-b2de-facf6a27e0f0" name="Changes" comment="Deleted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +99,7 @@
       <workItem from="1757758164461" duration="1296000" />
       <workItem from="1757759537768" duration="4105000" />
       <workItem from="1757763886915" duration="2209000" />
-      <workItem from="1757778826270" duration="1382000" />
+      <workItem from="1757778826270" duration="1785000" />
     </task>
     <task id="LOCAL-00001" summary="Final Commit">
       <option name="closed" value="true" />
@@ -132,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757780115206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Deleted">
+      <option name="closed" value="true" />
+      <created>1757780254808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757780254808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+    <MESSAGE value="Deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted" />
   </component>
 </project>
