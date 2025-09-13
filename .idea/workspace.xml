@@ -21,7 +21,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/adityakalambe01/TicketManagement.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/adityakalambe01/UpdatedTicketManagement.git&quot;,
     &quot;accountId&quot;: &quot;cef3dd39-86b4-4c12-b071-b8183fe86d11&quot;
   }
 }</component>
@@ -38,7 +38,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
@@ -99,7 +99,7 @@
       <workItem from="1757758164461" duration="1296000" />
       <workItem from="1757759537768" duration="4105000" />
       <workItem from="1757763886915" duration="2209000" />
-      <workItem from="1757778826270" duration="637000" />
+      <workItem from="1757778826270" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="Final Commit">
       <option name="closed" value="true" />
