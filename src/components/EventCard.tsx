@@ -219,7 +219,7 @@ export default function EventCard({ eventId, hideBuyButton = false }: { eventId:
 
   return (
     <div
-      onClick={() => router.push(`/event/${eventId}`)}
+      onClick={() => router.push(`/event/${eventId}/passes`)}
       className={`bg-white rounded-lg shadow-sm hover:shadow-lg hover:scale-105 transition-all duration-300 border border-gray-100 cursor-pointer overflow-hidden relative group ${
         isPastEvent ? "opacity-75 hover:opacity-100" : ""
       }`}
